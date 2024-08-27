@@ -79,5 +79,5 @@ In this project, we successfully developed a detailed 2D occupancy grid map usin
 - **Sriram S Rajan**: Simulation and Mapping
 - **Richu K Mathew**: Simulation and Mapping
 - **Sneha Mariam Shaji**: Simulation and Mapping
-- **Abi Talib**: Report and Documentation
+- **Abi Talib**: Developement, Report and Documentation
 - **Rohith Santhosh**: Report and Documentation
